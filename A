@@ -1,0 +1,7 @@
+echo "# Ayush-Gupta" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ayushgupta9890418094-sketch/Ayush-Gupta.git
+git push -u origin main
